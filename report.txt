@@ -1,0 +1,12 @@
+country : 	egyor
+name		ww
+age		11
+gender		male
+issue date	10/20/30
+location	urban area
+license number	909
+category	safety
+safety		helmet
+no. of vehicles	11
+total cases in urbanarea : 3				total cases in highway : 0
+distracted accidents	 1
